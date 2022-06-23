@@ -1,4 +1,3 @@
-import './App.css';
 import { Typography,AppBar,Button,Grid,Toolbar,Container }from '@material-ui/core';
 import  { CameraAlt } from '@material-ui/icons';
 import CardList from './CardList';
